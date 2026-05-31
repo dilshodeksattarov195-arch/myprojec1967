@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricssalidate",
+        "uuid": 16794246,
+        "checksum": "gkijy"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
